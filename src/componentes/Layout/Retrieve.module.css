@@ -1,0 +1,15 @@
+.info_container{
+    /* display: flex;
+    flex-direction: column; */
+    background-origin: padding-box;
+    
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    box-shadow: 0px 4px 8px rgba(46, 170, 205, 0.3);
+
+}
+p{
+    margin: 7px;
+    text-size-adjust: 5px;
+   
+}
